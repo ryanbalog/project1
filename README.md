@@ -7,3 +7,4 @@ of the provided test cases in test_search.py
 - Generate a large, sorted list 
 - Find the values at the min, mid, and max indexes
 - Search for these three values via each algorithm, outputing the returns and run-times
+- Ensure passing of provided test cases
